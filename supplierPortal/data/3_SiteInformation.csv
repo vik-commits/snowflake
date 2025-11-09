@@ -1,0 +1,11 @@
+﻿id,SiteId,Description,City,Latitude,Longitude
+1,Plant1,PENA - Manufacturing Plant,Reno,39.5299,-119.8143
+2,GigaDC1,Giga DC,Fremont,37.5485,-121.9886
+3,Plant2,CATL - Manufacturing Plant,Shanghai,31.2304,121.473
+4,Plant2a,CATL - Outsourced Plant,Gungzhou,23.1291,113.2644
+5,TilburgFactory,TilburgFactory,Tilburg,51.5606,5.0919
+6,LathropFactory,LathropFactory,Lathrop,37.8227,-121.2766
+7,Gigafactory1,Gigafactory1,Buffalo,42.8864,-78.8784
+8,Gigafactory2,Gigafactory2,Neutraubling,48.9854,12.1959
+9,Automationplant,Automationplant,Markham,43.8599,-79.335
+10,AustinPlant,AustinPlant,Austin,30.2672,-97.7431
